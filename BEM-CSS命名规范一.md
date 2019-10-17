@@ -1,4 +1,4 @@
-## 快速开始
+# BEM CSS命名规范一 Quick start
 ### 简介
 BEM（Block，Element，Modifier）是一个基于组件方式的 web 开发方法。
 
