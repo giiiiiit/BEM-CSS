@@ -1,3 +1,4 @@
+> BEM 是对 CSS 命名的一种规范，推崇将 WEB 页面模块化，从而提高代码的重用度，减少后期维护的成本。[原文](https://en.bem.info/methodology/key-concepts/)
 # BEM CSS命名规范一 Quick start
 ### 简介
 BEM（Block，Element，Modifier）是一个基于组件方式的 web 开发方法。
@@ -255,7 +256,7 @@ BEM（Block，Element，Modifier）是一个基于组件方式的 web 开发方�
     <button class="search-form__button">Search</button>
 </form>
 ```
-[为什么需要在元素或修饰符的名称上添写上模块的名称？](Why write the block name in the names of modifiers and elements?)
+> [为什么需要在元素或修饰符的名称上添写上模块的名称？](Why write the block name in the names of modifiers and elements?)
 
 ### 混合模式
 一种在单一的 DOM 节点上使用不同 BEM 实体的技术。
@@ -318,7 +319,7 @@ search-form.js                         # JavaScript implementation of the
 ```
 这样的文件结构可以很好地支持我们重用代码。
 
-    在生产环境中，这些分支的文件结构将会被组合成共享的文件。
+> 在生产环境中，这些分支的文件结构将会被组合成共享的文件。
     
 遵循这样的文件结构并不是必须的。你可以使用任何可替代的项目结构，根据 BEM 原则来组织你的文件结构，比如：
 - [Flat](https://en.bem.info/methodology/filestructure/#flat)
