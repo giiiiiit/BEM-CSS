@@ -1,5 +1,5 @@
-# BEM CSS命名规范二 Key concepts
 > [原文](https://en.bem.info/methodology/key-concepts/)
+# BEM CSS命名规范二 Key concepts
 ## 关键概念
 - 模块
 - 元素
@@ -19,7 +19,7 @@
 #### 嵌套结构
 模块可以被其他的模块嵌套在内部。
 
-  比如：一个 `head` 模块可以包含一个 logo（`logo`），一个搜索框（`search`），和一个授权（登录/注册）模块（`auth`）。
+比如：一个 `head` 模块可以包含一个 logo（`logo`），一个搜索框（`search`），和一个授权（登录/注册）模块（`auth`）。
   
 ![21](./assets/img/1.png "21")
 
