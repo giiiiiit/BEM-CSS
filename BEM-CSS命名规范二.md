@@ -1,6 +1,6 @@
 > [原文](https://en.bem.info/methodology/key-concepts/)
 # BEM CSS命名规范二 Key concepts
-## 关键概念
+### 关键概念
 - 模块
 - 元素
 - 修饰
